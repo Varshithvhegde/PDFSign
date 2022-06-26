@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/drawable/ic_add_black_24dp.xml" value="0.1385" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/drawable/ic_adobe.xml" value="0.1385" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/drawable/ic_check_black_24dp.xml" value="0.1385" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/drawable/ic_close_black_24dp.xml" value="0.1385" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/drawable/ic_content_copy_black_24dp.xml" value="0.1385" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/drawable/ic_delete_black_24dp.xml" value="0.1385" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/drawable/ic_folder_black_24dp.xml" value="0.1385" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/drawable/ic_iconfinder_24_2133056.xml" value="0.1385" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/drawable/ic_launcher2___copy.xml" value="0.1385" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1385" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/drawable/ic_menu_manage.xml" value="0.1385" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/drawable/ic_menu_send.xml" value="0.1385" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/drawable/ic_sigining.xml" value="0.1385" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/drawable/ic_signature_illustration.xml" value="0.1385" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/drawable/ic_signpdf.xml" value="0.1385" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/drawable/pagenumber_indicator_theme.xml" value="0.1385" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/drawable/side_nav_bar.xml" value="0.1385" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/layout/activity_digital_signature.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/layout/activity_free_hand.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/layout/activity_main.xml" value="0.21770833333333334" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/layout/activity_signature.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/layout/app_bar_main.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/layout/content_main.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/layout/element_prop_menu_layout.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/layout/file_alert_dialog.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/layout/fragment_layout.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/layout/mainitemgrid.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/layout/nav_header_main.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/layout/optiondialog.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/layout/passworddialog.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/layout/pdfviewer.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/layout/rename_layout.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/layout/sheet_list.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/layout/signature_item.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/menu/activity_main_drawer.xml" value="0.2282051282051282" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/menu/freehandmenu.xml" value="0.23177083333333334" />
+        <entry key="..\:/Users/varsh.LAPTOP-IG9S62OJ/AndroidStudioProjects/Sign/app/src/main/res/menu/main.xml" value="0.23177083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
