@@ -31,4 +31,6 @@ Add PDF|Draw And Signature|View PDF and Add Sign|Manage Signatures|Save and Shar
 * You can also save the signature added PDF and also share from it.
 
 ## Download
-
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
+      alt="Download from Google Play"
+      height="80">](https://play.google.com/store/apps/details?id=com.varshith.pdfdigitalsignature)
